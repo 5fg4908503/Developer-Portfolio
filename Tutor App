@@ -1,0 +1,28 @@
+### Tutor App
+
+A teacher-focused tuition management system that helps manage schedules, students, payments, attendance, and reminders.
+
+Features:
+- Teacher authentication
+- Tuition management
+- Student records
+- Payment tracking
+- Attendance logging
+- Class rescheduling
+- Automated reminders
+- Mobile-first design
+
+Tech Stack:
+- React
+- TypeScript
+- Tailwind CSS
+- PostgreSQL
+- Lovable Cloud
+- Service Workers
+
+Key Learning:
+- Database design
+- Authentication
+- Scheduling systems
+- Notification workflows
+- Full application architecture
